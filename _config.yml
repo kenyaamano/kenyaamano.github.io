@@ -9,7 +9,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   
-url: https://kenyamano.github.io  # the base hostname & protocol for your site
+url: https://kenyaamano.github.io  # the base hostname & protocol for your site
 last_updated: November 1, 2022 # leave blank if you don't want to display last updated
 
 
@@ -18,7 +18,7 @@ last_updated: November 1, 2022 # leave blank if you don't want to display last u
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: kenyamano # your GitHub user name
+github_username: kenyaamano # your GitHub user name
 twitter_username: KenyaAmano # your Twitter handle
 linkedin_username: kenya-amano-516a14100 # your LinkedIn user name
 scholar_userid: nYeP-i4AAAAJ # your Google Scholar ID
