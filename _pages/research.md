@@ -90,6 +90,7 @@ In Robert Pekkanen, Steven Reed, and Daniel Smith (eds.) _Japan Decides 2021: Th
 **Palgrave Macmillan**, Forthcoming <br>
 [<a href="javascript:showhide('bc1')">Abs</a>]
 [<a href="/assets/pdf/Amano and Katada_2022_Economic Policy Trilemma.pdf">PDF</a>]
+[<a href="https://doi.org/10.1007/978-3-031-11324-6_17">DOI</a>]
 [<a href="https://github.com/kenyamano/JapanDecides2021">Data</a>]
 <div id="bc1" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;">  Highly accommodative monetary policy during nine years of Abenomics allowed fiscal expansion to become the center of the Japanese government’s COVID-19 stimulus and the further economic measures were the primary issue facing the 2021 Lower House Election. Under monetary constraints, the economic policy choice among Japan’s conventional growth strategy, distribution, and fiscal discipline creates trilemma, where the government can pursue only two of these three goals. In this election, the LDP-Komeito coalition managed to straddle between distribution and growth strategy, while exploiting policy space for the opposition parties. Although the coalition maintained the electoral majority, the inroad made by Ishin, Reiwa, and the Democratic Party for the People whose campaigns neglected fiscal discipline in favor of both growth and distribution foreshadows the challenge against the Japanese government’s future fiscal health. </div> </p></div>
