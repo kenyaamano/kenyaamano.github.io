@@ -31,7 +31,7 @@ _Chapter 1 of Dissertation_<br>
 ### Peer-Reviewed Articles 
 [4] **Field Research When There’s Limited Access to the Field: Lessons from Japan**<br>
 with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, Trevor Incerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree<br>
-**_PS: Political Science & Politics_**, Forthcoming<br>
+**_PS: Political Science & Politics_**, 56(1):99--105, 2023.<br>
 [<a href="javascript:showhide('pr4')">Abs</a>]
 [<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AFFB58E13F44B31F63C58A452F57C697/S1049096522000932a.pdf/field-research-when-there-is-limited-access-to-the-field-lessons-from-japan.pdf">PDF</a>]
 [<a href="https://doi.org/10.1017/S1049096522000932">DOI</a>]
