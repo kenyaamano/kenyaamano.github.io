@@ -2,8 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Kenya</strong> Amano
-description: Postdoctoral Fellow | Program on U.S.-Japan Relations 
-Weatherhead Center for International Affairs | Harvard University, Cambridge MA
+description: Postdoctoral Fellow | Program on U.S.-Japan Relations | Weatherhead Center for International Affairs | Harvard University, Cambridge MA
 
 profile:
   align: right
