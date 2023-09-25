@@ -15,7 +15,7 @@ description: Publications and working papers.
 </script>
 
 
-#### [Research Statement](/assets/pdf/ResearchStatement-KenyaAmano.pdf) (as of November 2022)
+#### [Research Statement](/assets/pdf/ResearchStatement-KenyaAmano.pdf) (as of September 2023)
 
 
 ### Job Market Paper
