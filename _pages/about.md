@@ -6,7 +6,7 @@ description: Postdoctoral Fellow | Program on U.S.-Japan Relations | Weatherhead
 
 profile:
   align: right
-  image: KenyaAmanoPhoto.jpg
+  image: KenyaAmanoPic.jpg
   address: 
     <p></p>
     <p></p>
