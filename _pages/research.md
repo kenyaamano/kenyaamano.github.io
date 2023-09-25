@@ -97,11 +97,12 @@ In Robert Pekkanen, Steven Reed, and Daniel Smith (eds.) _Japan Decides 2021: Th
 
 
 ### Work in Progress
-[1] **Democracy and Economic Development: A Time-Varying Parameter Model**<br>
+[1] **Estimating Waves of Temporal Heterogeneity: A Time-Varying Parameter Model Approach**<br>
 _Chapter 2 of Dissertation_<br>
 [<a href="javascript:showhide('wp1')">Abs</a>]
+[<a href="/assets/pdf/TVP.pdf">PDF</a>]
 <div id="wp1" style="display:none;">
-<p><div style="font-size:0.85em; text-align: justify;">  Revisiting a controversy on the relationship between economic development and democratization, this paper explores dynamic relationships using a new estimation methodology with time-varying parameter (TVP) models.  I argue that the emergence of instituitoalized autocracies after the collapse of the Soviet Union exerts a structural change in the relationship between economic growth and democratization, predicting that the marginal effect of income on the transition to democracy diminishes over time.  The empirical analysis confirms that the magnitude of influence of per capita income on democratization is stable during the period from the 1960s to the 1980s, while it declines in the 1990s and the early 2000s. Moreover, the result shows that the time-varying effect of income is always positive and statistically significant in all periods, suggesting the modernization theory stands up well. </div> </p></div>
+<p><div style="font-size:0.85em; text-align: justify;">  Recent methodological developments in changepoint models have successfully identified structural changes in time-series cross-sectional data analysis. However, these models ignore gradual changes that happen over prolonged periods. Some scholars have developed theories to explain these slow-moving political relationships, but there are few statistical tools to empirically test these theories. To help researchers better analyze gradual changes, we propose the use of a Bayesian methodological strategy for time-varying parameter models to identify slow-moving structural changes. Specifically, we develop a time-varying parameter probit (TVPP) model, which estimates a time-varying relationship between a binary response and explanatory variables. We illustrate the utility of the TVPP models using simulated data and examples drawn from two important debates in democratization studies: (i) the identification of shifting relationships between oil wealth and democratization and (ii) the effects of income on democratic transition and consolidation. In both applications, we find that the proposed method successfully identifies substantively meaningful slow-evolving heterogeneity over sample periods. </div> </p></div>
 
 [2]  **Democracy-at-Risk:  Estimating Vulnerability and Resilience of Democracy**<br>
 _Chapter 3 of Dissertation_<br>
