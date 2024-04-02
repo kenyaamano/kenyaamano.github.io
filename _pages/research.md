@@ -15,19 +15,6 @@ description: Publications and working papers.
 </script>
 
 
-#### [Research Statement](/assets/pdf/ResearchStatement-KenyaAmano.pdf) (as of September 2023)
-
-
-### Job Market Paper
-**Democracy and Macroprudential Banking Regulation**<br>
-_Chapter 1 of Dissertation_<br>
-[<a href="javascript:showhide('jmp')">Abs</a>]
-[<a href="/assets/pdf/DemocracyAndMacpru.pdf">PDF</a>]
-<div id="jmp" style="display:block;">
-<p><div style="font-size:0.85em; text-align: justify;">  <b>Abstract: </b> Do democracies implement more banking regulations than authoritarian states? Existing studies examine the relationship between democracy, financial development, and banking crises, but we lack an understanding of how political regimes influence banking regulations. Through examining the increased global focus on macroprudential policy, which preemptively restricts credit expansion to decrease the risk and magnitude of banking crises, I argue that democratic governance limits regulatory implementation. Because the difficulty of retrospective evaluation of macroprudential policies exacerbates the short-termism of democratic decision-making, and the heterogeneous distributional effects of regulation increase the transaction costs of veto bargaining, democratic countries tend to resist reform and maintain status quo regulatory systems. Empirically, the analysis of a panel dataset of macroprudential policies in 126 countries from 1990-2020 and case studies of the United States, China, and Hungary indicate robust empirical support for the democratic disadvantage of macroprudential regulations. </div> </p></div>
-
-
-
 ### Peer-Reviewed Articles 
 [4] **Field Research When There’s Limited Access to the Field: Lessons from Japan**<br>
 with Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, Trevor Incerti, Jinhyuk Jang, Charles T. McClean, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, YujinWoo, and Charles Crabtree<br>
@@ -96,35 +83,49 @@ In Robert Pekkanen, Steven Reed, and Daniel Smith (eds.) _Japan Decides 2021: Th
 <p><div style="font-size:0.85em; text-align: justify;">  Highly accommodative monetary policy during nine years of Abenomics allowed fiscal expansion to become the center of the Japanese government’s COVID-19 stimulus and the further economic measures were the primary issue facing the 2021 Lower House Election. Under monetary constraints, the economic policy choice among Japan’s conventional growth strategy, distribution, and fiscal discipline creates trilemma, where the government can pursue only two of these three goals. In this election, the LDP-Komeito coalition managed to straddle between distribution and growth strategy, while exploiting policy space for the opposition parties. Although the coalition maintained the electoral majority, the inroad made by Ishin, Reiwa, and the Democratic Party for the People whose campaigns neglected fiscal discipline in favor of both growth and distribution foreshadows the challenge against the Japanese government’s future fiscal health. </div> </p></div>
 
 
-### Work in Progress
-[1] **Estimating Waves of Temporal Heterogeneity: A Time-Varying Parameter Model Approach**<br>
-_Chapter 2 of Dissertation_<br>
+### Working Papers
+[1] **Democracy and Macroprudential Banking Regulation**<br>
+_Chapter 1 of Dissertation_<br>
 [<a href="javascript:showhide('wp1')">Abs</a>]
+[<a href="/assets/pdf/DemocracyAndMacpru.pdf">PDF</a>]
+<div id="wp1" style="display:block;">
+<p><div style="font-size:0.85em; text-align: justify;">  <b>Abstract: </b> Do democracies implement more banking regulations than authoritarian states? Existing studies examine the relationship between democracy, financial development, and banking crises, but we lack an understanding of how political regimes influence banking regulations. Through examining the increased global focus on macroprudential policy, which preemptively restricts credit expansion to decrease the risk and magnitude of banking crises, I argue that democratic governance limits regulatory implementation. Because the difficulty of retrospective evaluation of macroprudential policies exacerbates the short-termism of democratic decision-making, and the heterogeneous distributional effects of regulation increase the transaction costs of veto bargaining, democratic countries tend to resist reform and maintain status quo regulatory systems. Empirically, the analysis of a panel dataset of macroprudential policies in 126 countries from 1990-2020 and case studies of the United States, China, and Hungary indicate robust empirical support for the democratic disadvantage of macroprudential regulations. </div> </p></div>
+
+[2] **Estimating Waves of Temporal Heterogeneity: A Time-Varying Parameter Model Approach**<br>
+_Chapter 2 of Dissertation_<br>
+[<a href="javascript:showhide('tvp')">Abs</a>]
 [<a href="/assets/pdf/TVP.pdf">PDF</a>]
-<div id="wp1" style="display:none;">
+<div id="tvp" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;">  Recent methodological developments in changepoint models have successfully identified structural changes in time-series cross-sectional data analysis. However, these models ignore gradual changes that happen over prolonged periods. Some scholars have developed theories to explain these slow-moving political relationships, but there are few statistical tools to empirically test these theories. To help researchers better analyze gradual changes, we propose the use of a Bayesian methodological strategy for time-varying parameter models to identify slow-moving structural changes. Specifically, we develop a time-varying parameter probit (TVPP) model, which estimates a time-varying relationship between a binary response and explanatory variables. We illustrate the utility of the TVPP models using simulated data and examples drawn from two important debates in democratization studies: (i) the identification of shifting relationships between oil wealth and democratization and (ii) the effects of income on democratic transition and consolidation. In both applications, we find that the proposed method successfully identifies substantively meaningful slow-evolving heterogeneity over sample periods. </div> </p></div>
 
-[2]  **Democracy-at-Risk: Estimate Vulnerability and Resilience of Democracy**<br>
+[3]  **Democracy-at-Risk: Estimate Vulnerability and Resilience of Democracy**<br>
 _Chapter 3 of Dissertation_<br>
 [<a href="javascript:showhide('wp2')">Abs</a>]
 <div id="wp2" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;">  Political science is rich in theories, hypotheses, and data to examine political relationships that involve *non-linear* relationships between outcomes and explanatory variables. While qualitative studies have empirically tested these asymmetric relationships, quantitative empirical tools to adequately address them are limited. To address asymmetric hypotheses, this article proposes a method that estimates the conditional distribution, rather than just the mean, of the outcome variable as a function of explanatory variables using quantile regression and skewed *t*-distribution.  By focusing on the conditional distribution, we can analyze the effects across the lower and upper tails of the probability distribution, capturing asymmetry through the empirical shape of the full distribution.  I demonstrate the utility of this approach by exploring the risks of democratic vulnerability and resilience and their association with two economic drivers: income levels and income distribution. I find that when income level increases, the upside and downside democracy risks are symmetric, and regime stability increases with higher income across all levels of democracy. However, the effect of income inequality is asymmetric: while rising income inequality moderately increases the risk of democratic regression, it significantly decreases the probability of increasing the level of democracy. </div> </p></div>
 
-[3]  **Driving Forces of Diversification in Central Banks’ Functions: Global Textual Analysis of Central Bank Laws**<br>
+[4]  **Driving Forces of Diversification in Central Banks’ Functions: Global Textual Analysis of Central Bank Laws**<br>
 with [Masaaki Higashijima]<br>
 [<a href="javascript:showhide('wp3')">Abs</a>]
 <div id="wp3" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;"> Why are some governments delegate more functions to their central bank than others? Despite the importance of non-monetary functions of central banks – issuance of legal tender banknotes, banking regulation, payment infrastructure provisions, reserve management –, little is known about the relationship between a variety of central bank functions and governments’ delegation strategies. The conventional wisdom of independent central banks considers that the narrower focus of central bank mandate on price stability, the better economic outcomes. However, no central bank operates only monetary policies, and delegating non-monetary functions has increased, especially after the Great Financial Crisis. To empirically capture the diversification of central bank mandates, we apply the Keyword Assisted Topic Models to the central bank statute of 103 countries. We analyze governments’ delegation strategies by focusing on a trade-off between central bank autonomy and the breadth of its policy functions. We suggest that governments are likely to allow broader policy roles to the central bank when countries are more autocratic and have lower state capacity. Our findings advance our understanding of when governments formally delegate certain political and economic powers to central banks. </div> </p></div>
 
-[4]  **Economic Policy Trilemma and Longevity of a Political Party: A Study of Japan’s Liberal Democratic Party in a Comparative Perspective**<br>
+[5]  **Economic Policy Trilemma and Longevity of a Political Party: A Study of Japan’s Liberal Democratic Party in a Comparative Perspective**<br>
 with [Saori N. Katada]<br>
 [<a href="javascript:showhide('wp4')">Abs</a>]
 <div id="wp4" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;"> Democracies tend to experience changes in the governing party to adapt to the structural changes in international economic relations and domestic industrial developments, while some countries see a party stay in the governing position for a long time. Such longevity of a governing party is even more puzzling when the country struggles with economic stagnation like in the case of Japan since the mid-1990s. How has the Liberal Democratic Party (LDP) managed to stay in power in the face of a changing economic environment? To answer this question, we propose our theory of economic policy trilemma; choice of macroeconomic policy comes down to supply-side growth strategy, distribution, and fiscal stability where the government can pursue only two of these three goals. We argue the LDP has managed to exploit policy space for the opposition parties under the trilemma and weakened their electoral positions. To empirically capture the changes in policy goals, we analyze policy debate data in the Diet from 1956 to 2022, quantifying the share of each policy goal in the debates for the LDP and other parties. This study reveals the non-LDP’s economic strategy affects the LDP’s policy choice, suggesting the incumbent party’s co-optation strategies. </div> </p></div>
 
 
-[5]  **Financial Crises and Political Liberalization**<br>
+### Work in Progress
+[1] **Declining _de facto_ Independence: the Bank of Japan and the New Politics of Monetary Policy**<br>
+with [Gene Park]<br>
+[<a href="javascript:showhide('wip1')">Abs</a>]
+<div id="wip1" style="display:none;">
+<p><div style="font-size:0.85em; text-align: justify;">  The theory of central bank independence is predicated on providing them political insulation that would allow central banks to act to stop or prevent inflation, including using tough measures to “take away the punch bowl.”  The context that gave rise to this theory changed significantly since the from the early 2000s until the pandemic.  The great moderation from the 1980s continued, and in some economies, such as Japan and the Eurozone, raising inflation or ending deflation became the goal of maintain price stability.  However, conservative central bankers face difficulty in taking aggressive actions because, in contrast to increasing interest rates, monetary accommodation at the zero lower bound requires stepping into fiscal policy space. In this paper, we argue that this new environment has led to a de facto decrease in central bank independence, despite no de jure changes. We observe that the Japanese government intervened in monetary policy through several changes.  First, the politicization of monetary policy to reflate the economy led to a systematic takeover of the Bank of Japan Policy Board.  Second, under new leadership, the BOJ embarked on a new policy course that included measures, such as large-scale quantitative easing, negative interest rates, and yield curve control (YCC).  These policies have normalized large-scale interventions that intertwine monetary policy, fiscal policy, and more directly than ever private asset prices too, thus intensifying the politics of monetary policy.  We illustrate this dynamic using two case studies: 1) the BOJ’s growing involvement with public finance through the large-scale purchase of government debt, and 2) the BOJ’s purchases of private assets, including ETFs and REITs. </div> </p></div>
+
+[2]  **Financial Crises and Political Liberalization**<br>
 with [Bree Bang-Jensen] and Brian Leung<br>
-[<a href="javascript:showhide('wp5')">Abs</a>]
-<div id="wp5" style="display:none;">
+[<a href="javascript:showhide('wip2')">Abs</a>]
+<div id="wip2" style="display:none;">
 <p><div style="font-size:0.85em; text-align: justify;"> The past decade has been characterized by two trends: the aftermath of the 2008-2009 recession and what some scholars characterize as a democratic regression. We explore whether financial crises leads states to become more authoritarian, and which state characteristics encourage stability.  Using financial crisis data from 1946-2010, we find that currency crises move states closer to authoritarianism but domestic sovereign debt crises lead to democratization.  We find that banking crises, the most dominant crisis during the 2008 recession, do not affect regime stability. Consolidated democracies are more resilient in times of crisis.  We argue that the types of constituents most directly impacted by certain economic crises lead to different responses by the regimes, resulting in either autocratization or democratization. This research suggests that the effect of financial crises on regime type is heterogeneous, and wealthier, more democratic countries are more resistant to authoritarianism in times of crisis.  </div> </p></div>
