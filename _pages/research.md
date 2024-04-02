@@ -93,6 +93,7 @@ _Chapter 1 of Dissertation_<br>
 
 [2] **Estimating Waves of Temporal Heterogeneity: A Time-Varying Parameter Model Approach**<br>
 _Chapter 2 of Dissertation_<br>
+with [Jouchi Nakajima]<br>
 [<a href="javascript:showhide('tvp')">Abs</a>]
 [<a href="/assets/pdf/TVP.pdf">PDF</a>]
 <div id="tvp" style="display:none;">

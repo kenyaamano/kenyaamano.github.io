@@ -6,3 +6,4 @@
 [Saori N. Katada]: https://sites.google.com/usc.edu/saori-n-katada
 [Masaaki Higashijima]: https://masaakihigashijima.com/
 [Gene Park]: https://bellarmine.lmu.edu/politicalscience/faculty/?expert=gene.park
+[Jouchi Nakajima]: https://sites.google.com/site/jnakajimaweb/home
